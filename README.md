@@ -8,6 +8,7 @@ The game includes four player roles:
 - **C2**
 - **Escort**
 - **Rescue**
+  
 Each role has its own deck of cards representing different capabilities. At the beginning of the game, each player selects a five-card loadout.
 
 ## Objective
@@ -45,6 +46,7 @@ The game contains four phases, with the number of threats increasing as the team
   |   2   |    4    |
   |   3   |    5    |
   |   4   |    6    |
+  
 Threats include categories such as:
 - Surface-to-Air Missile (SAM)
 - Air
